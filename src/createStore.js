@@ -1,5 +1,7 @@
 export default function createStore(reducer) {
-  // add your code here
+  let state;
+
+  
 }
 
 function render() {
