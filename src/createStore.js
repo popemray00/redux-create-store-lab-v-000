@@ -6,6 +6,8 @@ export default function createStore(reducer) {
     render();
   }
 
+  dispatch
+
   function getState() {
     return state;
   }
